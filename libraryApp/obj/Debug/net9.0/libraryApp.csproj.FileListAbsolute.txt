@@ -1,0 +1,14 @@
+C:\Users\sydze\source\repos\libraryApp\libraryApp\bin\Debug\net9.0\libraryApp.exe
+C:\Users\sydze\source\repos\libraryApp\libraryApp\bin\Debug\net9.0\libraryApp.deps.json
+C:\Users\sydze\source\repos\libraryApp\libraryApp\bin\Debug\net9.0\libraryApp.runtimeconfig.json
+C:\Users\sydze\source\repos\libraryApp\libraryApp\bin\Debug\net9.0\libraryApp.dll
+C:\Users\sydze\source\repos\libraryApp\libraryApp\bin\Debug\net9.0\libraryApp.pdb
+C:\Users\sydze\source\repos\libraryApp\libraryApp\obj\Debug\net9.0\libraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sydze\source\repos\libraryApp\libraryApp\obj\Debug\net9.0\libraryApp.AssemblyInfoInputs.cache
+C:\Users\sydze\source\repos\libraryApp\libraryApp\obj\Debug\net9.0\libraryApp.AssemblyInfo.cs
+C:\Users\sydze\source\repos\libraryApp\libraryApp\obj\Debug\net9.0\libraryApp.csproj.CoreCompileInputs.cache
+C:\Users\sydze\source\repos\libraryApp\libraryApp\obj\Debug\net9.0\libraryApp.dll
+C:\Users\sydze\source\repos\libraryApp\libraryApp\obj\Debug\net9.0\refint\libraryApp.dll
+C:\Users\sydze\source\repos\libraryApp\libraryApp\obj\Debug\net9.0\libraryApp.pdb
+C:\Users\sydze\source\repos\libraryApp\libraryApp\obj\Debug\net9.0\libraryApp.genruntimeconfig.cache
+C:\Users\sydze\source\repos\libraryApp\libraryApp\obj\Debug\net9.0\ref\libraryApp.dll
